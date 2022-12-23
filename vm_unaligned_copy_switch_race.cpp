@@ -1,5 +1,6 @@
 // from https://github.com/apple-oss-distributions/xnu/blob/xnu-8792.61.2/tests/vm/vm_unaligned_copy_switch_race.c
 // from https://worthdoingbadly.com/macdirtycow/
+// compile with clang++ vm_unaligned_copy_switch_race.cpp
 
 #include "vm_unaligned_copy_switch_race.hpp"
 
